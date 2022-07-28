@@ -1,0 +1,10 @@
+div {
+  height: 100%;
+  width: 50%;
+  position: absolute;
+  background-color: rgb(12, 15, 68);
+}
+
+button {
+  position: absolute;
+}
